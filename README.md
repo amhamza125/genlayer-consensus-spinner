@@ -26,8 +26,8 @@ A production-grade, ultra-performant Web3 loading component tailored for the **G
 ## 🚀 Live Demo
 
 Check out the live interactive preview here:  
-👉 **[Live Demo on GitHub Pages](https://<your-username>.github.io/genlayer-consensus-spinner/)**  
-*(Replace `<your-username>` with your actual GitHub handle)*
+👉 **[Live Demo on GitHub Pages]([https://<your-username>.github.io/genlayer-consensus-spinner/](https://amhamza125.github.io/genlayer-consensus-spinner/))**  
+
 
 ---
 
